@@ -1,4 +1,4 @@
-# vue-admin-template
+# 以vue-admin-template 为模板的后台管理系统
 
 English | [简体中文](./README-zh.md)
 
